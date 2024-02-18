@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MyApp my app snap 1`] = `
+<DocumentFragment>
+  <div
+    data-testid="component"
+  >
+    Test Component
+  </div>
+</DocumentFragment>
+`;

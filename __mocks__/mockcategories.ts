@@ -1,0 +1,48 @@
+export const mockcategories = [
+  {
+    id: 'cat_9BAmwJmb3leXdn',
+    parent_id: null,
+    slug: 'electronics',
+    name: 'Electronics',
+    description: '1. Laptops\n2.Mobiles\n3.Ipods, Ipads\n4.Headsets',
+    products: 3,
+    created: 1708105746,
+    updated: 1708105746,
+    meta: null,
+    assets: [
+      {
+        id: 'ast_QG375vdYKYwrMO',
+        url: 'https://cdn.chec.io/merchants/56103/assets/ZjaBIGXVDG4kh94r|61uNK7su24L._SL1500_.jpg',
+        description: null,
+        is_image: true,
+        filename: '61uNK7su24L._SL1500_.jpg',
+        file_size: 18709,
+        file_extension: 'jpg',
+        image_dimensions: {
+          width: 1500,
+          height: 1500,
+        },
+        meta: [],
+        created_at: 1708105701,
+        updated_at: 1708105703,
+      },
+      {
+        id: 'ast_RqEv5xYDG7lZz4',
+        url: 'https://cdn.chec.io/merchants/56103/assets/zGUfgJDMGb8TFdnI|71jG+e7roXL._SL1500_.jpg',
+        description: null,
+        is_image: true,
+        filename: '71jG+e7roXL._SL1500_.jpg',
+        file_size: 40326,
+        file_extension: 'jpg',
+        image_dimensions: {
+          width: 1500,
+          height: 1500,
+        },
+        meta: [],
+        created_at: 1708105735,
+        updated_at: 1708105737,
+      },
+    ],
+    children: [],
+  },
+];

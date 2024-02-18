@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`router loader snap 1`] = `
+<div
+  className="MuiBox-root css-65avyl"
+>
+  <div
+    className="MuiBox-root css-datla1"
+  >
+    <span
+      className="MuiCircularProgress-root MuiCircularProgress-indeterminate MuiCircularProgress-colorPrimary css-18lrjg1-MuiCircularProgress-root"
+      data-testid="router-loader"
+      role="progressbar"
+      style={
+        {
+          "height": 150,
+          "width": 150,
+        }
+      }
+    >
+      <svg
+        className="MuiCircularProgress-svg css-1idz92c-MuiCircularProgress-svg"
+        viewBox="22 22 44 44"
+      >
+        <circle
+          className="MuiCircularProgress-circle MuiCircularProgress-circleIndeterminate css-176wh8e-MuiCircularProgress-circle"
+          cx={44}
+          cy={44}
+          fill="none"
+          r={20.2}
+          strokeWidth={3.6}
+          style={{}}
+        />
+      </svg>
+    </span>
+    <div
+      className="MuiTypography-root MuiTypography-body1 css-1e0k6sq-MuiTypography-root"
+    >
+      BTM INDUSTRIES
+    </div>
+  </div>
+</div>
+`;

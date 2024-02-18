@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`grid snap 1`] = `
+<div
+  className="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 css-mhc70k-MuiGrid-root"
+>
+  <div>
+    Item 1
+  </div>
+  <div>
+    Item 2
+  </div>
+</div>
+`;
